@@ -1,0 +1,23 @@
+{
+  "name": "chichain-token",
+  "version": "1.0.0",
+  "description": "ChiChain-Token (CCT) is a Non-fungible token that you can use to gain access, buy and take advantage of all the services of ChiChain network.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-Chilie/ChiChain-Token.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G-Chilie/ChiChain-Token/issues"
+  },
+  "homepage": "https://github.com/G-Chilie/ChiChain-Token#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.6.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}
